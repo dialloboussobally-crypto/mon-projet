@@ -70,7 +70,7 @@ https://dialloboussobally-crypto.github.io/mon-projet/
 ## Structure des fichiers
 
 ```
-mon-projet/
+mon-projert/
 ├── index.html          # Accueil
 ├── menu.html           # Menu avec filtre (script.js maintenant chargé correctement)
 ├── about.html          # À Propos
