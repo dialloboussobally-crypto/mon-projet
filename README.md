@@ -70,7 +70,7 @@ https://dialloboussobally-crypto.github.io/mon-projet/
 ## Structure des fichiers
 
 ```
-TP BAOBAB/
+mon-projet/
 ├── index.html          # Accueil
 ├── menu.html           # Menu avec filtre (script.js maintenant chargé correctement)
 ├── about.html          # À Propos
@@ -105,12 +105,14 @@ TP BAOBAB/
 ## Équipe
 
 -SEYNABOU DIANE
+
 -MAME DIARRA BOUSSO DIALLO
+
 -KHADIDIATOU SECK
 
- Étudiant(e) UCAK L1, module Développement Web Front-end
+ Étudiantes à UCAK L1, module Développement Web statique 
 
 ## Remerciements
 
-Projet réalisé dans le cadre du module Développement Web Front-end.
+Projet réalisé dans le cadre du module Développement Web statique.
 Images : Collection personnelle · Icônes : [Bootstrap Icons](https://icons.getbootstrap.com)
