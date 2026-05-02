@@ -25,6 +25,10 @@ Site vitrine d'un restaurant de cuisine africaine moderne à Dakar, Sénégal.
 | À Propos | `about.html` | Histoire, valeurs, équipe, récompenses |
 | Contact | `contact.html` | Formulaire validé en JS, infos pratiques, carte |
 
+## Site en ligne 
+
+https://dialloboussobally-crypto.github.io/mon-projet/
+
 ## Fonctionnalités JavaScript
 
 - ✅ Validation en temps réel du formulaire de contact (champs requis, email, téléphone)
@@ -44,6 +48,9 @@ Site vitrine d'un restaurant de cuisine africaine moderne à Dakar, Sénégal.
 5. **Alert** — bandeau menu du jour + message de succès formulaire
 6. **Badge** — catégorisation des plats
 7. **Form** — formulaire de contact avec validation
+   
+## capture d'écrans 
+
 
 ## Modifications et améliorations récentes
 
@@ -97,7 +104,11 @@ TP BAOBAB/
 
 ## Équipe
 
-- **[Seynabou Diane , Mame Diarra bousso Diallo , Khadidiatou Seck]** — Étudiant(e) UCAK L1, module Développement Web Front-end
+-SEYNABOU DIANE
+-MAME DIARRA BOUSSO DIALLO
+-KHADIDIATOU SECK
+
+ Étudiant(e) UCAK L1, module Développement Web Front-end
 
 ## Remerciements
 
